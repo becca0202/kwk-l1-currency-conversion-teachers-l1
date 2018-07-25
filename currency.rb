@@ -1,4 +1,4 @@
-# Write your cod here
+# Write your code here
 def usd_to_eur(dollars_to_convert)
   euro_converted = dollars_to_convert*0.85
   # puts euro_converted
